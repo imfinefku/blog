@@ -10,8 +10,11 @@
 数据库用的是mysql。<br>
 总体来说涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为毕业设计。<br>
 
+##项目演示地址
+https://xuezhabiji.com/
+
 ## 功能介绍
-<img src="https://xuezhabiji.com/images/program/blog/bloggn.jpg" width="600" height="300" /><br>
+<img src="https://xuezhabiji.com/images/program/blog/bloggn.jpg" width="600" height="400" /><br>
 
 ## 技术学习
 
