@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.study.dao.SpecificMapper">
+    <insert id="addTag" parameterType="com.study.bean.specific.Tag">
+		insert into blog_tag(id,name,createtime)
+		values(#{id},#{name},#{createtime})
+	</insert>
+
+    <update id="updateTag" parameterType="com.study.bean.specific.Tag">
+		update blog_tag
+		set name=#{name}
+		where id=#{id}
+	</update>
+
+    <delete id="deleteTag">
+		delete
+		from blog_tag
+		where id=#{id}
+	</delete>
+
+    <select id="getTagPage" resultType="com.study.bean.specific.Tag">
+		select *
+		from blog_tag
+		order by createtime
+		limit #{start},#{limit}
+	</select>
+
+	<select id="getTagAll" resultType="com.study.bean.specific.Tag">
+		select *
+		from blog_tag
+	</select>
+
+    <select id="getTagCount" resultType="Integer">
+		select count(*)
+		from blog_tag
+	</select>
+</mapper>
