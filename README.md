@@ -11,7 +11,7 @@
 总体来说涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为毕业设计。<br>
 
 ## 功能介绍
-<img src="https://xuezhabiji.com/images/program/blog/bloggn.png" width="600" height="300" /><br>
+<img src="https://xuezhabiji.com/images/program/blog/bloggn.jpg" width="600" height="300" /><br>
 
 ## 技术学习
 
@@ -44,8 +44,8 @@
 2.安装开发环境jdk、node.js、vscode、idea/eclipse、MySQL5.7。<br>
 3.在mysql中创建数据库blog，导入后台代码中的blog.sql。<br>
 4.启动前端程序和后端程序即可，后端程序默认启动端口是10000，前端调用后台默认也是调用10000端口，可自行修改。<br>
-5.访问http://localhost:8080             是展示端首页
-6.访问http://localhost:8080/#/login     是管理端登录页面
+5.访问http://localhost:8080             是展示端首页<br>
+6.访问http://localhost:8080/#/login     是管理端登录页面<br>
 
 ## 系统图片
 
