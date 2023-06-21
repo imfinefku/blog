@@ -14,7 +14,7 @@
 https://xuezhabiji.com/
 
 ## 功能介绍
-<img src="https://xuezhabiji.com/images/program/blog/bloggn.jpg" width="600" height="400" /><br>
+<img src="https://xuezhabiji.com/images/program/blog/bloggn.jpg" width="600" height="500" /><br>
 
 ## 技术学习
 
