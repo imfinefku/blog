@@ -9,6 +9,7 @@
 本系统采用的是前后端分离的方式，前端是用Vue+Elementui开发，后端是用SpirngBoot+MyBatis开发。<br>
 数据库用的是mysql。<br>
 总体来说涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为毕业设计。<br>
+视频介绍：<a href="https://www.bilibili.com/video/BV1714y1U7TF/?spm_id_from=333.999.0.0&vd_source=e6eb98771fefe4bc68298183ff572b90" target="_blank">点击查看B站视频介绍</a>
 
 ##项目演示地址
 https://xuezhabiji.com/
