@@ -11,9 +11,6 @@
 总体来说涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为设计项目或开发学习。<br>
 视频介绍：<a href="https://www.bilibili.com/video/BV1714y1U7TF/?spm_id_from=333.999.0.0&vd_source=e6eb98771fefe4bc68298183ff572b90" target="_blank">点击查看B站视频介绍</a>
 
-##项目演示地址
-https://xuezhabiji.com/
-
 ## 功能介绍
 <img src="./images/bloggn.jpg" width="600" height="500" /><br>
 
